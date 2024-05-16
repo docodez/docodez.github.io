@@ -2,7 +2,7 @@
 draft: false
 date: 2024-02-01
 authors:
-  - digo
+  - ryou
 slug: markdown
 comments: true
 ---

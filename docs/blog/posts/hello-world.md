@@ -2,14 +2,7 @@
 draft: false 
 date: 2024-01-31 
 authors:
-  - digo
-categories:
-  - Hello
-  - World
-tags:
-  - HTML5
-  - Javascript
-  - CSS
+  - ryou
 slug: hello-world
 ---
 
