@@ -2,6 +2,6 @@
 
 <div class="grid cards" markdown>
 
-- [CSES Solutions](./cses-solutions/)
+- [Marisaoj solutions](./marisaoj/)
 
 </div>
